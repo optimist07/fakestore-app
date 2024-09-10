@@ -55,9 +55,9 @@ const Footer = () => {
           <div class="col-md-4">
             <h5>Quick Links</h5>
             <ul class="list-unstyled">
-              <li><a href="#">Home</a></li>
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Services</a></li>
+              <li><a href="/">Home</a></li>
+              <li><a href="javascript:void(0)">About Us</a></li>
+              <li><a href="javascript:void(0)">Services</a></li>
               {/* <li><a href="#">Contact</a></li> */}
             </ul>
           </div>
